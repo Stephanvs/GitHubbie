@@ -118,10 +118,10 @@
     <None Include="GitHubbie_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Logo.png" />
-    <Content Include="Assets\SmallLogo.png" />
-    <Content Include="Assets\SplashScreen.png" />
-    <Content Include="Assets\StoreLogo.png" />
+    <AndroidAsset Include="Assets\Logo.png" />
+    <AndroidAsset Include="Assets\SmallLogo.png" />
+    <AndroidAsset Include="Assets\SplashScreen.png" />
+    <AndroidAsset Include="Assets\StoreLogo.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
